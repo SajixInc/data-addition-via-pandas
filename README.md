@@ -1,7 +1,7 @@
 # Excel-mongo-data-sync
 
-Importing data from excel to mongodb to one collection and making relation with
-another colection using pandas
+Importing data from Excel to MongoDB into one collection and making a relation with
+Another collection using Pandas
 
 
 # Prerequisites
@@ -18,9 +18,9 @@ MongoDB server.
 
 Install the necessary Python libraries and ensure that a MongoDB server is running.
 
-Save the Excel file ('Distict_Mandals.xlsx') in the specified location ('C:\Users\LT-VFY-DL-012022-037\Downloads\').
+Save the Excel file ('xxxxx.xlsx') in the specified location ('FilePath').
 
-Update the MongoDB connection details in the code if necessary. By default, it connects to a MongoDB server running on 'localhost' at 'port 27017'.
+Update the MongoDB connection details in the code if necessary. By default,e it connects to a MongoDB server running on 'localhost' at 'port 27017'.
 
 Run the Python script.
 
