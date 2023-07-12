@@ -1,4 +1,4 @@
-# Data-addtion-via-pandas
+# Data-addition-via-pandas
 
 Updating serial number from one collection to another collection based on voter_slips
 
