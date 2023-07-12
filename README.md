@@ -1,4 +1,4 @@
-# Excel-mongo-data-sync
+# Data-addtion-via-pandas
 
 Importing data from Excel to MongoDB into one collection and making a relation with
 Another collection using Pandas
